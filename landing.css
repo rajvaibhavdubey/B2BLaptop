@@ -64,7 +64,7 @@
       }
       .div-3 {
         position: relative;
-        background-color: rgba(23, 65, 137, 0.7);
+        background-color: #0097fe;
         display: flex;
         width: 100%;
         flex-direction: column;
@@ -100,12 +100,11 @@
         gap: 20px;
       }
       .img-2 {
-        aspect-ratio: 1.16;
         object-fit: contain;
         object-position: center;
         fill: #174189;
         overflow: hidden;
-        max-width: 100%;
+        width: 30vh;
       }
       .div-6 {
         align-self: center;
@@ -282,7 +281,7 @@
         max-width: 100%;
       }
       .div-19 {
-        color: #174189;
+        color: #0097fe;
         align-self: center;
         flex-grow: 1;
         white-space: nowrap;
@@ -484,7 +483,7 @@
         }
       }
       .div-32 {
-        color: #174189;
+        color: #0097fe;
         text-decoration-line: underline;
         margin-top: 45px;
         white-space: nowrap;
@@ -498,7 +497,7 @@
         }
       }
       .div-33 {
-        background-color: rgba(23, 65, 137, 0.9);
+        background-color: #0097fe;
         align-self: stretch;
         display: flex;
         margin-top: 92px;

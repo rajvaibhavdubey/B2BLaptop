@@ -140,12 +140,11 @@
         gap: 20px;
       }
       .img-2 {
-        aspect-ratio: 1.16;
         object-fit: contain;
         object-position: center;
         fill: #174189;
         overflow: hidden;
-        max-width: 100%;
+        width: 30vh;
       }
       .div-6 {
         align-self: center;
