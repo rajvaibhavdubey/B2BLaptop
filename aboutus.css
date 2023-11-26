@@ -133,6 +133,10 @@
           padding: 0 20px;
         }
       }
+      .office-img{
+        width: 100px;
+        height: 100px;
+      }
       .div-5 {
         align-self: stretch;
         display: flex;
@@ -144,7 +148,7 @@
         object-position: center;
         fill: #174189;
         overflow: hidden;
-        width: 30vh;
+        width: 50px;
       }
       .div-6 {
         align-self: center;
