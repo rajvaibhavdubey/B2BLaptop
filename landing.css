@@ -353,7 +353,7 @@
 .div-22 {
   align-self: center;
   display: flex;
-  margin-top: 117px;
+  margin-top: 60px;
   width: 100%;
   max-width: 1400px;
   flex-direction: column;
@@ -506,7 +506,7 @@
 }
 .div-33 {
   background-color: #0097fe;
-  align-self: stretch;
+  align-self: center;
   display: flex;
   margin-top: 92px;
   align-items: flex-start;
